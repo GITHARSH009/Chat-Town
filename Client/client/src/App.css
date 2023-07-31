@@ -1,0 +1,78 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.rocky{
+  background:linear-gradient(#d1c4e9,#673ab7);
+  height: 100vh;
+}
+.kgf{
+  background:linear-gradient(#6e3ec0,rgb(160, 242, 242));
+  margin: auto;
+  width: 80%;
+  height: 82vh;
+  border-radius: 2px;
+}
+.send{
+  margin-left: 20vh;
+}
+#mesiname{
+  padding: 4px;
+  font-size: 1.2rem;
+  border: 2px solid black;
+  border-radius: 2px;
+  margin-top: 3px;
+  width: 33%;
+  margin-right: 5px;
+}
+#mesinput{
+  padding: 4px;
+  font-size: 1.2rem;
+  border: 2px solid black;
+  border-radius: 2px;
+  margin-top: 3px;
+  width: 33%;
+  margin-right: 5px;
+}
+.mr{
+  margin: 5px;
+  padding: 4px;
+  border: 2px solid black;
+  border-radius: 4px;
+  float: right;
+  clear: both;
+  background-color: white;
+  color: darkblue;
+}
+.ml{
+  margin: 5px;
+  padding: 4px;
+  border: 2px solid black;
+  border-radius: 4px;
+  float: left;
+  clear: both;
+  background-color: white;
+  color: rgb(19, 139, 0);
+}
+.rajat{
+ position: relative;
+ margin-left: 10%;
+}
+#mesinputa{
+  padding: 8px;
+  font-size: 1.1rem;
+  border: 2px solid black;
+  border-radius: 2px;
+  width: 95px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+}
+#mesname{
+  padding: 9px;
+  font-size: 1rem;
+  border: 2px solid rgb(27, 7, 7);
+  border-radius: 2px;
+  width: 120px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+}
